@@ -1,7 +1,7 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Yeabsira Girma</h1>
-<h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">An Aspiring Software Engineer: Self-taught Programmer & 2 Bootcamps graduate( DATA/BI & APP DEV)</h3>
 <img align="center" alt="Coding" width="800" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🔭 I’m currently working on **Full-Stack Web Development**
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeab243&show_icons=true&locale=en&layout=compact" alt="yeab243" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeab243&show_icons=true&locale=en" alt="yeab243" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeab243&show_icons=true&theme=radical&hide=contribs,stars&show=prs_merged_percentage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeab243&" alt="yeab243" /></p>
