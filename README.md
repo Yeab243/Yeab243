@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Yeabsira Girma</h1>
 <h3 align="left">             A Full-Stack Software Engineer</h3>
