@@ -1,7 +1,7 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Yeabsira Girma</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
+<h3 align="left">A Full-Stack Software Engineer</h3>
 <img align="center" alt="Coding" width="800" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🔭 I’m currently working on **Full-Stack Web Development**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yeabsirag74@gmail.com**
 
-- ⚡ Fun fact **Probably, the best coder soccer player ever. lol**
+- ⚡ Fun fact **Probably, the best coder + soccer player ever. lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
