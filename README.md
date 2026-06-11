@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Data-Driven Solutions, Cloud Migration Projects, and Open-Source Data Engineering Initiatives
 
-- 💬 Ask me about:
+ 👨🏻‍💻Ask me about:
 
 - Azure Data Engineering best practices
 - Azure Data Factory (ADF), Azure Synapse Analytics, and Databricks
